@@ -1,0 +1,13 @@
+greeting: Hello
+
+info:
+  build:
+    artifact: demo
+    name: demo
+    description: Demo project for Spring Boot
+    version: 0.0.1-SNAPSHOT
+
+endpoints:
+     health:
+        sensitive: false
+

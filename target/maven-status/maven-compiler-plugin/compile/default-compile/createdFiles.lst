@@ -1,0 +1,6 @@
+com\zjs\service\CustomerService.class
+com\zjs\FlappingHealthIndicator.class
+com\zjs\web\CustomerController.class
+com\zjs\Application.class
+com\zjs\domain\CutomerRepository.class
+com\zjs\domain\Customer.class
