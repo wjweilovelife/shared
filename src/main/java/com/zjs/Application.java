@@ -24,7 +24,7 @@ public class Application {
 		return String.format("%s World!", greeting);
 	}*/
 		String target(){
-		return String.format("%s world", greetingService.getGreeting());
+		return String.format("%s world wjwei", greetingService.getGreeting());
 	}
 	public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
